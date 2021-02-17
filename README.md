@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Madhav243/Madhav243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there , I am Madhav Verma</h1>
+<h1 align="center">Hi there 👋, I am Madhav Verma</h1>
 
 - 🔭 I’m currently working at <a href="https://assignmentsolver.netlify.app/" target="_blank" > AssignmentSolver </a> as a developer and a freelancer. 
 - 💬 Ask me about <strong>Web Development , Python , DSA </strong>.

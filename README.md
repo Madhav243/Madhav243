@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there , I am Madhav Verma</h1>
 
-🔭 I’m currently working at <a href="https://assignmentsolver.netlify.app/" target="_blank" > AssignmentSolver </a> as a developer as well as freelancer. 
-💬 Ask me about <strong>Web Development , Python , DSA </strong>.
-👯 I’m looking to collaborate on new projects on web development.
-🌱 I’m currently learning <strong>Django</strong> and looking forward to learn <strong>Cloud Computing.</strong>
-📫 How to reach me: <a href="https://www.linkedin.com/in/madhav-verma-b13224183/" target="_blank"> Madhav Verma</a>
-⚡ Fun fact: Do visit my new project <a href="https://instabook.herokuapp.com/" target="_blank">InstaBook</a>
+- 🔭 I’m currently working at <a href="https://assignmentsolver.netlify.app/" target="_blank" > AssignmentSolver </a> as a developer as well as freelancer. 
+- 💬 Ask me about <strong>Web Development , Python , DSA </strong>.
+- 👯 I’m looking to collaborate on new projects on web development.
+- 🌱 I’m currently learning <strong>Django</strong> and looking forward to learn <strong>Cloud Computing.</strong>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/madhav-verma-b13224183/" target="_blank"> Madhav Verma</a>
+- ⚡ Fun fact: Do visit my new project <a href="https://instabook.herokuapp.com/" target="_blank">InstaBook</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhav243&count_private=true&show_icons=true">
   </p>

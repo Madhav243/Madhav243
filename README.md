@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I am Madhav Verma</h1>
 
-- 🔭 I’m currently working at <a href="https://paxcom.ai/" target="_blank" > Paxcom </a> as a developer and a freelancer. 
+- 🔭 I’m currently working at <a href="https://paxcom.ai/" target="_blank" > Paxcom </a> as a Software Engineer Intern. 
 - 💬 Ask me about <strong>Web Development , Python , DSA </strong>.
 - 👯 I’m looking to collaborate on new projects on web development.
 - 🌱 I’m currently learning <strong>Django</strong> and looking forward to learn <strong>Cloud Computing.</strong>
